@@ -17,6 +17,7 @@ module.exports = {
         deadline: "tomorrow",
         createdAt: new Date(),
         updatedAt: new Date(),
+        listId: 1,
       },
       {
         task: "apples",
